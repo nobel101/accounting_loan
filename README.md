@@ -1,4 +1,4 @@
-Open HRMS Loan Accounting
+ Loan Accounting
 =========================
 
 Manage Loan Requests.
